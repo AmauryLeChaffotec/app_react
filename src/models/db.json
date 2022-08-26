@@ -1,17 +1,6 @@
 {
   "pokemons": [
     {
-      "id": 1,
-      "name": "Bulbizarre",
-      "hp": "250",
-      "cp": 5,
-      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
-      "types": [
-        "Plante",
-        "Poison"
-      ]
-    },
-    {
       "id": 2,
       "name": "Salamèche",
       "hp": 28,
@@ -122,6 +111,27 @@
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
       "types": [
         "Feu"
+      ]
+    },
+    {
+      "id": 1661517373942,
+      "hp": 100,
+      "cp": 10,
+      "name": "nouveau pokemon",
+      "picture": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 1661517554493,
+      "hp": 100,
+      "cp": 10,
+      "name": "suprise",
+      "picture": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+      "types": [
+        "Eau",
+        "Combat"
       ]
     }
   ]
